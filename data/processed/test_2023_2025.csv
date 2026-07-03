@@ -1,0 +1,35 @@
+player_id,player_name,season,position,nfl_team,draft_round,draft_pick_overall,age_on_draft_day,height_inches,weight_lbs,college,college_games_played,career_yards,career_touchdowns,rookie_total_ppr_points,season_positional_finish,fantasy_relevant_binary
+qb_2023_young,Bryce Young,2023,QB,Panthers,1,1,22,70,204,Alabama,35,8356,80,200.3,23.0,0.0
+qb_2023_stroud,C.J. Stroud,2023,QB,Texans,1,2,21,75,218,Ohio St.,27,8123,85,328.0,11.0,1.0
+qb_2023_richardson,Anthony Richardson,2023,QB,Colts,1,4,21,76,244,Florida,24,3105,24,135.0,33.0,0.0
+rb_2023_robinson,Bijan Robinson,2023,RB,Falcons,1,8,21,71,215,Texas,31,3410,33,272.9,9.0,1.0
+rb_2023_gibbs,Jahmyr Gibbs,2023,RB,Lions,1,12,21,69,202,Alabama,31,2132,15,271.9,10.0,1.0
+wr_2023_smith-njigba,Jaxon Smith-Njigba,2023,WR,Seahawks,1,20,21,72,197,Ohio St.,23,1698,10,147.8,49.0,0.0
+wr_2023_johnston,Quentin Johnston,2023,WR,Chargers,1,21,22,74,208,TCU,32,2190,14,88.1,68.0,0.0
+wr_2023_flowers,Zay Flowers,2023,WR,Ravens,1,22,22,69,183,Boston Col.,48,3056,29,216.8,30.0,1.0
+wr_2023_addison,Jordan Addison,2023,WR,Vikings,1,23,21,71,179,USC,35,3134,29,241.1,23.0,1.0
+te_2023_kincaid,Dalton Kincaid,2023,TE,Bills,1,25,23,76,240,Utah,31,1414,16,157.3,11.0,1.0
+qb_2024_williams,Caleb Williams,2024,QB,Bears,1,1,22,73,226,USC,37,10082,93,285.4,17.0,0.0
+qb_2024_daniels,Jayden Daniels,2024,QB,Commanders,1,2,23,76,210,LSU,55,12749,89,392.7,5.0,1.0
+qb_2024_maye,Drake Maye,2024,QB,Patriots,1,3,22,77,225,North Carolina,30,8018,63,198.3,27.0,0.0
+wr_2024_harrison-jr.,Marvin Harrison-Jr.,2024,WR,Cardinals,1,4,22,75,220,Ohio St.,38,2613,31,246.8,20.0,1.0
+wr_2024_nabers,Malik Nabers,2024,WR,Giants,1,6,21,72,200,LSU,38,3003,21,301.2,8.0,1.0
+qb_2024_penix,Michael Penix,2024,QB,Falcons,1,8,24,75,220,Washington,48,13741,96,21.7,52.0,0.0
+wr_2024_odunze,Rome Odunze,2024,WR,Bears,1,9,22,75,214,Washington,40,3272,24,181.6,39.0,0.0
+qb_2024_mccarthy,J.J. McCarthy,2024,QB,Vikings,1,10,21,75,219,Michigan,40,6226,49,0.0,999.0,0.0
+qb_2024_nix,Bo Nix,2024,QB,Broncos,1,12,24,74,217,Oregon,61,15351,113,318.5,12.0,1.0
+te_2024_bowers,Brock Bowers,2024,TE,Raiders,1,13,21,76,235,Georgia,40,2538,26,242.4,1.0,1.0
+wr_2024_thomas,Brian Thomas,2024,WR,Jaguars,1,23,21,74,209,LSU,38,1897,24,287.9,10.0,1.0
+wr_2024_worthy,Xavier Worthy,2024,WR,Chiefs,1,28,21,71,165,Texas,39,2755,26,224.1,24.0,1.0
+wr_2024_pearsall,Ricky Pearsall,2024,WR,49ers,1,31,23,73,189,Florida,55,2420,14,126.2,58.0,0.0
+wr_2024_legette,Xavier Legette,2024,WR,Panthers,1,32,23,75,227,South Carolina,53,1678,12,141.5,49.0,0.0
+qb_2025_ward,Cam Ward,2025,QB,Titans,1,1,23,74,219,Miami (FL),38,11281,87,186.6,22.0,0.0
+wr_2025_hunter,Travis Hunter,2025,WR,Jaguars,1,2,22,73,185,Colorado,22,1979,20,63.8,97.0,0.0
+rb_2025_jeanty,Ashton Jeanty,2025,RB,Raiders,1,6,21,68,208,Boise St.,40,4769,50,245.1,11.0,1.0
+wr_2025_mcmillan,Tetairoa McMillan,2025,WR,Panthers,1,8,22,77,212,Arizona,37,3423,26,211.4,16.0,1.0
+te_2025_loveland,Colston Loveland,2025,TE,Bears,1,10,21,78,241,Michigan,39,1466,11,165.1,12.0,1.0
+te_2025_warren,Tyler Warren,2025,TE,Colts,1,14,23,78,256,Penn St.,56,1839,19,188.5,4.0,1.0
+wr_2025_egbuka,Emeka Egbuka,2025,WR,Buccaneers,1,19,22,73,205,Ohio St.,49,2868,24,195.7,23.0,1.0
+rb_2025_hampton,Omarion Hampton,2025,RB,Chargers,1,22,22,72,220,North Carolina,38,3565,36,135.7,35.0,0.0
+wr_2025_golden,Matthew Golden,2025,WR,Packers,1,23,22,71,191,Texas,36,1975,22,70.0,89.0,0.0
+qb_2025_dart,Jaxson Dart,2025,QB,Giants,1,25,22,74,223,Mississippi,45,11970,81,241.6,13.0,0.0

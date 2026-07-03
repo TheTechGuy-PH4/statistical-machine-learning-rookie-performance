@@ -1,0 +1,121 @@
+player_id,player_name,season,position,nfl_team,draft_round,draft_pick_overall,age_on_draft_day,height_inches,weight_lbs,college,college_games_played,career_yards,career_touchdowns,rookie_total_ppr_points,season_positional_finish,fantasy_relevant_binary
+qb_2010_bradford,Sam Bradford,2010,QB,Rams,1,1,22,76,224,Oklahoma,31,8403,88,245.7,16.0,0.0
+rb_2010_spiller,C.J. Spiller,2010,RB,Bills,1,9,23,71,194,Clemson,52,3547,32,95.2,49.0,0.0
+rb_2010_mathews,Ryan Mathews,2010,RB,Chargers,1,12,22,72,220,Fresno St.,31,3280,39,158.3,32.0,0.0
+te_2010_gresham,Jermaine Gresham,2010,TE,Bengals,1,21,22,77,260,Oklahoma,41,1629,26,112.1,16.0,0.0
+wr_2010_thomas,Demaryius Thomas,2010,WR,Broncos,1,22,22,75,225,Georgia Tech,39,2339,15,52.3,87.0,0.0
+wr_2010_bryant,Dez Bryant,2010,WR,Cowboys,1,24,21,74,220,Oklahoma St.,28,2425,29,187.1,24.0,1.0
+qb_2010_tebow,Tim Tebow,2010,QB,Broncos,1,25,23,74,236,Florida,55,9285,88,61.7,39.0,0.0
+rb_2010_best,Jahvid Best,2010,RB,Lions,1,30,21,69,190,California,31,2668,29,218.8,16.0,1.0
+qb_2011_newton,Cam Newton,2011,QB,Panthers,1,1,22,77,245,Auburn,20,2908,30,385.0,3.0,1.0
+wr_2011_green,A.J. Green,2011,WR,Bengals,1,4,23,76,207,Georgia,32,2619,23,247.7,14.0,1.0
+wr_2011_jones,Julio Jones,2011,WR,Falcons,1,6,22,75,220,Alabama,40,2653,15,180.9,26.0,1.0
+qb_2011_locker,Jake Locker,2011,QB,Titans,1,8,23,74,228,Washington,40,7639,53,18.7,56.0,0.0
+qb_2011_gabbert,Blaine Gabbert,2011,QB,Jaguars,1,10,21,76,233,Missouri,31,6822,40,135.3,32.0,0.0
+qb_2011_ponder,Christian Ponder,2011,QB,Vikings,1,12,23,74,222,Florida St.,35,6872,49,134.0,28.0,0.0
+wr_2011_baldwin,Jonathan Baldwin,2011,WR,Chiefs,1,26,22,76,225,Pittsburgh,39,2337,16,30.1,109.0,0.0
+rb_2011_ingram,Mark Ingram,2011,RB,Saints,1,28,21,69,215,Alabama,39,3261,42,131.0,43.0,0.0
+qb_2012_luck,Andrew Luck,2012,QB,Colts,1,1,22,76,240,Stanford,38,9430,82,339.7,9.0,1.0
+qb_2012_griffin-iii,Robert Griffin-III,2012,QB,Commanders,1,2,22,74,213,Baylor,41,10366,78,357.1,5.0,1.0
+rb_2012_richardson,Trent Richardson,2012,RB,Browns,1,3,22,69,228,Alabama,38,3130,35,267.9,8.0,1.0
+wr_2012_blackmon,Justin Blackmon,2012,WR,Jaguars,1,5,22,73,210,Oklahoma St.,38,3564,40,192.5,28.0,1.0
+qb_2012_tannehill,Ryan Tannehill,2012,QB,Dolphins,1,8,24,76,217,Texas A&M,50,5450,42,250.6,19.0,0.0
+wr_2012_floyd,Michael Floyd,2012,WR,Cardinals,1,13,22,75,220,Notre Dame,43,3686,37,65.2,45.0,0.0
+wr_2012_wright,Kendall Wright,2012,WR,Titans,1,20,22,70,185,Baylor,50,4004,30,189.6,31.0,1.0
+qb_2012_weeden,Brandon Weeden,2012,QB,Browns,1,22,28,75,227,Oklahoma St.,30,9260,75,219.8,23.0,0.0
+wr_2012_jenkins,A.J. Jenkins,2012,WR,49ers,1,30,22,72,192,Illinois,46,2432,19,0.0,999.0,0.0
+rb_2012_martin,Doug Martin,2012,RB,Buccaneers,1,31,23,69,210,Boise St.,52,3431,43,319.6,2.0,1.0
+rb_2012_wilson,David Wilson,2012,RB,Giants,1,32,21,70,205,Virginia Tech,40,2662,18,74.4,46.0,0.0
+wr_2013_austin,Tavon Austin,2013,WR,Rams,1,8,23,68,179,West Virginia,52,3413,29,151.8,44.0,0.0
+qb_2013_manuel,EJ Manuel,2013,QB,Bills,1,16,23,76,237,Florida St.,43,7741,47,171.9,27.0,0.0
+te_2013_eifert,Tyler Eifert,2013,TE,Bengals,1,21,22,78,255,Notre Dame,37,1840,11,65.5,18.0,0.0
+wr_2013_hopkins,DeAndre Hopkins,2013,WR,Texans,1,27,21,73,210,Clemson,39,3020,27,159.2,25.0,1.0
+wr_2013_patterson,Cordarrelle Patterson,2013,WR,Vikings,1,29,22,74,220,Tennessee,12,778,5,185.9,29.0,1.0
+qb_2014_bortles,Blake Bortles,2014,QB,Jaguars,1,3,22,77,236,Central Florida,37,7598,56,200.9,24.0,0.0
+wr_2014_watkins,Sammy Watkins,2014,WR,Bills,1,4,21,73,211,Clemson,36,3391,27,241.2,23.0,1.0
+wr_2014_evans,Mike Evans,2014,WR,Buccaneers,1,7,21,77,231,Texas A&M,26,2499,17,271.1,13.0,1.0
+te_2014_ebron,Eric Ebron,2014,TE,Lions,1,10,21,76,253,North Carolina,34,1805,8,69.8,29.0,0.0
+wr_2014_beckham-jr.,Odell Beckham-Jr.,2014,WR,Giants,1,12,21,71,200,LSU,40,2340,12,295.0,5.0,1.0
+wr_2014_cooks,Brandin Cooks,2014,WR,Saints,1,20,20,70,190,Oregon St.,38,3272,24,154.0,43.0,0.0
+qb_2014_manziel,Johnny Manziel,2014,QB,Browns,1,22,21,72,207,Texas A&M,26,7820,63,29.9,46.0,0.0
+wr_2014_benjamin,Kelvin Benjamin,2014,WR,Panthers,1,28,23,77,245,Florida St.,28,1506,19,250.8,16.0,1.0
+qb_2014_bridgewater,Teddy Bridgewater,2014,QB,Vikings,1,32,21,74,210,Louisville,39,9817,72,191.7,25.0,0.0
+qb_2015_winston,Jameis Winston,2015,QB,Buccaneers,1,1,21,76,231,Florida St.,27,7964,65,307.8,13.0,0.0
+qb_2015_mariota,Marcus Mariota,2015,QB,Titans,1,2,21,76,222,Oregon,41,10796,105,228.0,24.0,0.0
+wr_2015_cooper,Amari Cooper,2015,WR,Raiders,1,4,21,73,211,Alabama,39,3463,31,250.0,21.0,1.0
+wr_2015_white,Kevin White,2015,WR,Bears,1,7,23,75,216,West Virginia,23,1954,15,0.0,999.0,0.0
+rb_2015_gurley,Todd Gurley,2015,RB,Rams,1,10,21,73,224,Georgia,30,3285,36,229.4,9.0,1.0
+wr_2015_parker,DeVante Parker,2015,WR,Dolphins,1,14,22,75,215,Louisville,43,2775,33,115.4,58.0,0.0
+rb_2015_gordon,Melvin Gordon,2015,RB,Chargers,1,15,22,73,215,Wisconsin,45,4915,45,110.7,42.0,0.0
+wr_2015_agholor,Nelson Agholor,2015,WR,Eagles,1,20,22,72,200,USC,40,2572,20,104.3,61.0,0.0
+wr_2015_perriman,Breshad Perriman,2015,WR,Ravens,1,26,21,74,215,Central Florida,39,2243,16,0.0,999.0,0.0
+wr_2015_dorsett,Phillip Dorsett,2015,WR,Colts,1,29,22,70,185,Miami (FL),44,2132,17,76.5,84.0,0.0
+qb_2016_goff,Jared Goff,2016,QB,Rams,1,1,21,76,217,California,37,12200,96,44.8,41.0,0.0
+qb_2016_wentz,Carson Wentz,2016,QB,Eagles,1,2,23,77,237,North Dakota St.,43,2315,45,274.7,24.0,0.0
+rb_2016_elliott,Ezekiel Elliott,2016,RB,Cowboys,1,4,21,72,228,Ohio St.,35,3961,43,325.4,2.0,1.0
+wr_2016_coleman,Corey Coleman,2016,WR,Browns,1,15,22,71,185,Baylor,34,3009,33,85.3,78.0,0.0
+wr_2016_fuller,Will Fuller,2016,WR,Texans,1,21,22,73,184,Notre Dame,32,3512,30,176.5,34.0,1.0
+wr_2016_doctson,Josh Doctson,2016,WR,Commanders,1,22,23,74,205,TCU,46,3178,34,16.6,156.0,0.0
+wr_2016_treadwell,Laquon Treadwell,2016,WR,Vikings,1,23,21,74,215,Mississippi,35,2393,21,17.5,151.0,0.0
+qb_2016_lynch,Paxton Lynch,2016,QB,Broncos,1,26,22,79,244,Memphis,38,8863,59,27.9,44.0,0.0
+qb_2017_trubisky,Mitchell Trubisky,2017,QB,Bears,1,2,23,75,222,North Carolina,34,4762,41,174.7,28.0,0.0
+rb_2017_fournette,Leonard Fournette,2017,RB,Jaguars,1,4,22,72,228,LSU,32,3830,40,260.6,8.0,1.0
+wr_2017_davis,Corey Davis,2017,WR,Titans,1,5,22,75,209,Western Michigan,50,5285,52,73.5,90.0,0.0
+wr_2017_williams,Mike Williams,2017,WR,Chargers,1,7,22,76,218,Clemson,39,2727,21,23.5,146.0,0.0
+rb_2017_mccaffrey,Christian McCaffrey,2017,RB,Panthers,1,8,21,71,210,Stanford,38,3922,21,240.3,11.0,1.0
+wr_2017_ross,John Ross,2017,WR,Bengals,1,9,21,71,190,Washington,40,1729,22,2.1,221.0,0.0
+qb_2017_mahomes,Patrick Mahomes,2017,QB,Chiefs,1,10,21,74,225,Texas Tech,32,11252,93,17.8,59.0,0.0
+qb_2017_watson,Deshaun Watson,2017,QB,Texans,1,12,21,75,223,Clemson,38,10163,90,174.5,28.0,0.0
+te_2017_howard,O.J. Howard,2017,TE,Buccaneers,1,19,22,78,251,Alabama,54,1726,7,122.2,10.0,1.0
+te_2017_engram,Evan Engram,2017,TE,Giants,1,23,23,75,240,Mississippi,45,2320,15,173.6,5.0,1.0
+te_2017_njoku,David Njoku,2017,TE,Browns,1,29,21,76,246,Miami (FL),26,1060,9,92.6,21.0,0.0
+qb_2018_mayfield,Baker Mayfield,2018,QB,Browns,1,1,23,73,215,Oklahoma,48,14607,131,295.3,16.0,0.0
+rb_2018_barkley,Saquon Barkley,2018,RB,Giants,1,2,21,72,233,Penn St.,38,3843,43,385.8,1.0,1.0
+qb_2018_darnold,Sam Darnold,2018,QB,Jets,1,3,21,75,225,USC,27,7229,57,214.1,29.0,0.0
+qb_2018_allen,Josh Allen,2018,QB,Bills,1,7,22,77,237,Wyoming,27,5066,44,297.6,15.0,0.0
+qb_2018_rosen,Josh Rosen,2018,QB,Cardinals,1,10,21,76,226,UCLA,30,1170,59,120.2,35.0,0.0
+wr_2018_moore,D.J. Moore,2018,WR,Panthers,1,24,21,72,213,Maryland,37,2027,17,173.8,39.0,0.0
+te_2018_hurst,Hayden Hurst,2018,TE,Ravens,1,25,25,76,245,South Carolina,38,1281,3,33.3,52.0,0.0
+wr_2018_ridley,Calvin Ridley,2018,WR,Falcons,1,26,23,73,190,Alabama,44,2781,19,218.1,18.0,1.0
+rb_2018_penny,Rashaad Penny,2018,RB,Seahawks,1,27,22,71,220,San Diego St.,54,3656,38,92.7,47.0,0.0
+rb_2018_michel,Sony Michel,2018,RB,Patriots,1,31,23,71,215,Georgia,47,3638,33,209.1,19.0,1.0
+qb_2018_jackson,Lamar Jackson,2018,QB,Ravens,1,32,21,74,205,Louisville,38,9043,69,166.1,29.0,0.0
+qb_2019_murray,Kyler Murray,2019,QB,Cardinals,1,1,22,70,207,Oklahoma,29,5406,50,335.3,7.0,1.0
+qb_2019_jones,Daniel Jones,2019,QB,Giants,1,6,22,77,230,Duke,36,8201,52,298.1,15.0,0.0
+te_2019_hockenson,T.J. Hockenson,2019,TE,Lions,1,8,22,77,248,Iowa,26,1080,9,131.7,8.0,1.0
+qb_2019_haskins,Dwayne Haskins,2019,QB,Commanders,1,15,22,76,230,Ohio St.,22,5396,54,93.0,39.0,0.0
+te_2019_fant,Noah Fant,2019,TE,Broncos,1,20,21,76,249,Iowa,35,1083,19,149.2,16.0,0.0
+rb_2019_jacobs,Josh Jacobs,2019,RB,Raiders,1,24,21,70,223,Alabama,42,1491,16,242.6,14.0,1.0
+wr_2019_brown,Marquise Brown,2019,WR,Ravens,1,25,22,69,180,Oklahoma,27,2413,17,170.4,46.0,0.0
+wr_2019_harry,N'Keal Harry,2019,WR,Patriots,1,32,21,76,225,Arizona St.,37,2889,22,25.5,171.0,0.0
+qb_2020_burrow,Joe Burrow,2020,QB,Bengals,1,1,23,76,215,LSU,39,8852,78,178.7,25.0,0.0
+qb_2020_tagovailoa,Tua Tagovailoa,2020,QB,Dolphins,1,5,22,73,225,Alabama,33,7442,87,153.3,31.0,0.0
+qb_2020_herbert,Justin Herbert,2020,QB,Chargers,1,6,22,78,236,Oregon,44,10541,95,395.1,9.0,1.0
+wr_2020_ruggs-iii,Henry Ruggs-III,2020,WR,Raiders,1,12,21,72,190,Alabama,41,1716,24,86.2,90.0,0.0
+wr_2020_jeudy,Jerry Jeudy,2020,WR,Broncos,1,15,21,73,195,Alabama,42,2742,26,221.6,21.0,1.0
+wr_2020_lamb,CeeDee Lamb,2020,WR,Cowboys,1,17,21,74,200,Oklahoma,41,3292,32,233.7,18.0,1.0
+wr_2020_reagor,Jalen Reagor,2020,WR,Eagles,1,21,21,71,197,TCU,39,2248,22,88.6,89.0,0.0
+wr_2020_jefferson,Justin Jefferson,2020,WR,Vikings,1,22,21,73,195,LSU,34,2415,24,274.2,6.0,1.0
+wr_2020_aiyuk,Brandon Aiyuk,2020,WR,49ers,1,25,22,72,200,Arizona St.,25,1666,11,214.0,15.0,1.0
+qb_2020_love,Jordan Love,2020,QB,Packers,1,26,21,76,219,Utah St.,38,8600,60,0.0,999.0,0.0
+rb_2020_edwards-helaire,Clyde Edwards-Helaire,2020,RB,Chiefs,1,32,21,67,207,LSU,41,2103,23,181.8,22.0,1.0
+qb_2021_lawrence,Trevor Lawrence,2021,QB,Jaguars,1,1,21,78,220,Clemson,40,10098,90,275.7,16.0,0.0
+qb_2021_wilson,Zach Wilson,2021,QB,Jets,1,2,22,74,214,BYU,30,7652,56,185.9,30.0,0.0
+qb_2021_lance,Trey Lance,2021,QB,49ers,1,3,21,76,226,North Dakota St.,19,2786,28,69.0,44.0,0.0
+te_2021_pitts,Kyle Pitts,2021,TE,Falcons,1,4,20,78,250,Florida,32,1492,18,176.6,6.0,1.0
+wr_2021_chase,Ja'Marr Chase,2021,WR,Bengals,1,5,21,72,200,LSU,27,2093,23,304.6,5.0,1.0
+wr_2021_waddle,Jaylen Waddle,2021,WR,Dolphins,1,6,22,70,185,Alabama,34,1999,17,245.8,13.0,1.0
+wr_2021_smith,DeVonta Smith,2021,WR,Eagles,1,10,22,72,170,Alabama,54,3965,46,219.6,29.0,1.0
+qb_2021_fields,Justin Fields,2021,QB,Bears,1,11,22,75,227,Ohio St.,34,5701,67,159.4,31.0,0.0
+qb_2021_jones,Mac Jones,2021,QB,Patriots,1,15,23,75,220,Alabama,39,6126,56,258.8,18.0,0.0
+wr_2021_toney,Kadarius Toney,2021,WR,Giants,1,20,22,72,193,Florida,38,1590,12,94.9,84.0,0.0
+rb_2021_harris,Najee Harris,2021,RB,Steelers,1,24,23,73,242,Alabama,55,3843,46,300.7,3.0,1.0
+rb_2021_etienne,Travis Etienne,2021,RB,Jaguars,1,25,22,70,215,Clemson,55,4952,70,0.0,999.0,0.0
+wr_2021_bateman,Rashod Bateman,2021,WR,Ravens,1,27,21,73,193,Minnesota,31,2395,19,96.5,82.0,0.0
+wr_2022_london,Drake London,2022,WR,Falcons,1,8,21,77,215,USC,27,2153,15,190.6,31.0,1.0
+wr_2022_wilson,Garrett Wilson,2022,WR,Jets,1,10,22,72,183,Ohio St.,33,2213,23,227.1,21.0,1.0
+wr_2022_olave,Chris Olave,2022,WR,Saints,1,11,22,72,187,Ohio St.,47,2711,35,234.2,19.0,1.0
+wr_2022_williams,Jameson Williams,2022,WR,Lions,1,12,21,73,182,Alabama,34,1838,18,15.3,156.0,0.0
+wr_2022_dotson,Jahan Dotson,2022,WR,Commanders,1,16,22,71,184,Penn St.,42,2757,25,147.3,47.0,0.0
+wr_2022_burks,Treylon Burks,2022,WR,Titans,1,18,22,74,225,Arkansas,32,2399,18,108.4,65.0,0.0
+qb_2022_pickett,Kenny Pickett,2022,QB,Steelers,1,20,24,75,220,Pittsburgh,52,12303,81,183.0,24.0,0.0

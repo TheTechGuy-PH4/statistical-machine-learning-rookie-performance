@@ -1,0 +1,11 @@
+player_id,player_name,season,position,nfl_team,draft_round,draft_pick_overall,age_on_draft_day,height_inches,weight_lbs,college,college_games_played,career_yards,career_touchdowns,rookie_total_ppr_points,season_positional_finish,fantasy_relevant_binary
+qb_2026_mendoza,Fernando Mendoza,2026,QB,Raiders,1,1,22,77,225,Indiana,36,8247,71,,,
+rb_2026_love,Jeremiyah Love,2026,RB,Cardinals,1,3,21,72,214,Notre Dame,41,2882,36,,,
+wr_2026_tate,Carnell Tate,2026,WR,Titans,1,4,21,75,195,Ohio St.,39,1872,14,,,
+wr_2026_tyson,Jordyn Tyson,2026,WR,Saints,1,8,22,74,200,Arizona St.,33,2282,22,,,
+qb_2026_simpson,Ty Simpson,2026,QB,Rams,1,13,23,74,208,Alabama,31,3948,28,,,
+te_2026_sadiq,Kenyon Sadiq,2026,TE,Jets,1,16,21,75,245,Oregon,42,892,11,,,
+wr_2026_lemon,Makai Lemon,2026,WR,Eagles,1,20,22,71,195,USC,33,2008,14,,,
+wr_2026_concepcion,KC Concepcion,2026,WR,Browns,1,24,21,71,190,Texas A&M,38,2218,25,,,
+wr_2026_cooper-jr.,Omar Cooper-Jr.,2026,WR,Jets,1,30,22,72,204,Indiana,42,1798,22,,,
+rb_2026_price,Jadarian Price,2026,RB,Seahawks,1,32,22,71,210,Notre Dame,41,1692,21,,,

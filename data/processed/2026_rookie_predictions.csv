@@ -1,0 +1,11 @@
+player_id,player_name,season,position,draft_pick_overall,predicted_rookie_ppr_points,predicted_fantasy_relevant_binary,fantasy_relevance_probability,prediction_label
+rb_2026_love,Jeremiyah Love,2026,RB,3,279.8,1,71.8,Fantasy Relevant
+qb_2026_mendoza,Fernando Mendoza,2026,QB,1,223.4,0,6.2,Not Fantasy Relevant
+wr_2026_tate,Carnell Tate,2026,WR,4,197.5,1,52.6,Fantasy Relevant
+wr_2026_concepcion,KC Concepcion,2026,WR,24,190.3,0,46.4,Not Fantasy Relevant
+qb_2026_simpson,Ty Simpson,2026,QB,13,170.7,0,39.8,Not Fantasy Relevant
+te_2026_sadiq,Kenyon Sadiq,2026,TE,16,142.8,0,45.2,Not Fantasy Relevant
+wr_2026_lemon,Makai Lemon,2026,WR,20,132.5,0,20.0,Not Fantasy Relevant
+rb_2026_price,Jadarian Price,2026,RB,32,131.1,0,45.2,Not Fantasy Relevant
+wr_2026_tyson,Jordyn Tyson,2026,WR,8,120.8,1,54.4,Fantasy Relevant
+wr_2026_cooper-jr.,Omar Cooper-Jr.,2026,WR,30,90.3,0,27.8,Not Fantasy Relevant
